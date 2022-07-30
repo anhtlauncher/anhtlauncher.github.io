@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<embed name="bgm" src="Yume 2kki OST Lotus Waters.mp3" loop="true" hidden="true" autostart="true">
 
-You can use the [editor on GitHub](https://github.com/anhtlauncher/anhtlauncher.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Anhtlauncher cursed page
 
-### Markdown
+Lười đánh tiếng Việt :v
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About me
 
-```markdown
-Syntax highlighted code block
+- Discord: Anhtlauncher#5823
+- Gmail: vohoaianh019@gmail.com
+- facebook: [Anh VoHoai](https://www.facebook.com/profile.php?id=100076227913028)
+- Timezone: GMT+7
 
-# Header 1
-## Header 2
-### Header 3
+# Repos
 
-- Bulleted
-- List
+-  Abandoned winforms roblos executor: [here](https://github.com/anhtlauncher/awe-roblos-executor)
+-  Afk bot for aternos servers: i will public it soon
+-  Planning to add more
 
-1. Numbered
-2. List
+# Minecraft server
 
-**Bold** and _Italic_ and `Code` text
+- IP: LeoMCkk.aternos.me:37396
+- Version: Main 1.17.1 | You can join from 1.8 to 1.18
+- Has Economy shop, Custom enchantment 2
+- Contact me to make the server online
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anhtlauncher/anhtlauncher.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-this page is using an chill background music enjoy!
