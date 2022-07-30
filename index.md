@@ -1,3 +1,5 @@
+<embed name="bgm" src="Yume 2kki OST Lotus Waters.mp3" width="150" height="90" loop="true" autostart="true">
+
 # Anhtlauncher cursed page
 
 Lười đánh tiếng Việt :v
@@ -25,4 +27,3 @@ Lười đánh tiếng Việt :v
 
 -this page is using an chill background music enjoy!
 
-<embed name="bgm" src="Yume 2kki OST Lotus Waters.mp3" width="150" height="90" loop="true" autostart="true">
