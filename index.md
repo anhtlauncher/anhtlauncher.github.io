@@ -23,7 +23,7 @@ Lười đánh tiếng Việt :v
 - Version: Main 1.17.1 | You can join from 1.8 to 1.18
 - Has Economy shop, Custom enchantment 2
 - Contact me to make the server online
-<img src="leomc icon.jpg" width="250" height="150">   
+<img src="leomc icon.jpg" width="100" height="100">   
 
 -this page is using an chill background music enjoy!
 
