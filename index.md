@@ -17,13 +17,13 @@ Lười đánh tiếng Việt :v
 -  Afk bot for aternos servers: i will public it soon
 -  Planning to add more
 
-# Minecraft server
+# Minecraft server 
 
 - IP: LeoMCkk.aternos.me:37396
 - Version: Main 1.17.1 | You can join from 1.8 to 1.18
 - Has Economy shop, Custom enchantment 2
 - Contact me to make the server online
-
+<img src="leomc icon.jpg">   
 
 -this page is using an chill background music enjoy!
 
