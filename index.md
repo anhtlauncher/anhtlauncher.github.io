@@ -17,7 +17,7 @@ Lười đánh tiếng Việt :v
 -  Afk bot for aternos servers: i will public it soon
 -  Planning to add more
 
-# Minecraft server 
+# LeoMC minecraft server 
 
 - IP: LeoMCkk.aternos.me:37396
 - Version: Main 1.17.1 | You can join from 1.8 to 1.18
