@@ -1,4 +1,4 @@
-<embed name="bgm" src="Yume 2kki OST Lotus Waters.mp3" loop="true" hidden="false" autostart="true">
+<embed name="bgm" src="Yume 2kki OST Lotus Waters.mp3" loop="true" hidden="true" autostart="true">
 
 # Anhtlauncher cursed page
 
