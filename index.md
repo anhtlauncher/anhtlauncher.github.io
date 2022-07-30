@@ -1,4 +1,4 @@
-<embed name="bgm" src="Yume 2kki OST Lotus Waters.mp3" loop="true" hidden="true" autostart="true" >
+<iframe width="1" height="1" wmode="transparent" src="//www.youtube.com/embed/040EB9IkQTk?autoplay=1&loop=1&playlist=040EB9IkQTk" frameborder="0" allowfullscreen>
 
 # Anhtlauncher cursed page
 
