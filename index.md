@@ -27,6 +27,6 @@ Lười đánh tiếng Việt :v
 
 -this page is using an chill background music enjoy!
 
-<audio src="Yume 2kki OST Lotus Waters.mp3" autoplay loop>
+<audio src="Yume 2kki OST Lotus Waters.mp3" controls>
 <p>If you are reading this, it is because your browser does not support the audio element.</p>
 </audio>
