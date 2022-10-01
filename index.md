@@ -14,6 +14,9 @@ Lười đánh tiếng Việt :v
 # Repos
 
 -  Abandoned winforms roblos executor: [here](https://github.com/anhtlauncher/awe-roblos-executor)
+-  Infinite Store script edited by me: [here](https://github.com/anhtlauncher/Infinite-Store)
+-  Ironbrew obfuscator discord bot i stolen from somewhere: [here](https://github.com/anhtlauncher/ironbrew-bot)
+-  Simple rickroll detector discord bot stolen from somewhere idk bruh: [here](https://github.com/anhtlauncher/may-phat-hien-rick-lan)
 -  Afk bot for aternos servers: i will public it soon
 -  Planning to add more
 
