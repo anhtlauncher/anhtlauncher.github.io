@@ -28,7 +28,7 @@ Lười đánh tiếng Việt :v
 - Contact me to make the server online
 ### <img src="leomc_icon-removebg-preview.png" width="100" height="100">   
 
--this page is using an chill background music enjoy!
+- some cool music for u bro 😎
 
 <audio src="CODEX Installer Music.mp3" controls autoplay loop>
 <p>If you are reading this, it is because your browser does not support the audio element.</p>
