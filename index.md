@@ -17,6 +17,9 @@ Lười đánh tiếng Việt :v
 -  Infinite Store script edited by me: [here](https://github.com/anhtlauncher/Infinite-Store)
 -  Ironbrew obfuscator discord bot i stolen from somewhere: [here](https://github.com/anhtlauncher/ironbrew-bot)
 -  Simple rickroll detector discord bot stolen from somewhere idk bruh: [here](https://github.com/anhtlauncher/may-phat-hien-rick-lan)
+-  Custom ESP Lib for roblox : [here](https://github.com/anhtlauncher/esp-stuffs)
+-  Infinite Yield plugin manager edited by me : [here](https://github.com/anhtlauncher/Infinite-Store)
+-  Ironbrew Obfuscator discord bot : [here](https://github.com/anhtlauncher/ironbrew-bot)
 -  Afk bot for aternos servers: i will public it soon
 -  Planning to add more
 
@@ -27,8 +30,6 @@ Lười đánh tiếng Việt :v
 - Has Economy shop, Custom enchantment 2
 - Contact me to make the server online
 ### <img src="leomc_icon-removebg-preview.png" width="100" height="100">   
-
-- some cool music for u bro 😎
 
 <audio src="CODEX Installer Music.mp3" controls autoplay loop>
 <p>If you are reading this, it is because your browser does not support the audio element.</p>
